@@ -1,0 +1,5 @@
+## Interface: 80300
+## Title: 打断喊话
+## Notes: 打断不喊话, 能叫打断吗
+
+interruptFrame.lua
